@@ -146,5 +146,5 @@ UI Elements: Adjust MainWindow.xaml to customize the layout, styling, and contro
 
 Activity Log Detail: Refine ActivityLogger.cs to log more specific details or change the display limit.
 
-GitHub Link:
+GitHub Link:https://github.com/MndebeleMhlengi/ST10384345_PROG6221POE.git
 YouTube Link:
